@@ -3,4 +3,5 @@ for(let s = 0; s < 10; s = s++){
         console.log('Número par!')
         continue
     }
+    console.log(s);
 }
