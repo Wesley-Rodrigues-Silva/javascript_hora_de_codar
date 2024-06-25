@@ -1,0 +1,1 @@
+"use strict" // para restringir o código, não deixando programarmos de maneira errada
